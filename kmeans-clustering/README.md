@@ -1,4 +1,4 @@
-# Exercise for Kmeans Clustering
+# Kmeans Clustering
 
 ## Task
 
