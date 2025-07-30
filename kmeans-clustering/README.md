@@ -56,4 +56,4 @@ Centroid: 1 (22.179069767441863, 2.770581395348837)
 
 [20.4, 1.61]
 
-![image](https://github.com/CMSC-170-1st-Sem-2021-2022/exercise-08-kmeans-clustering/blob/main/kmeans.PNG?raw=true)
+![image]([https://github.com/VEEpforge/CMSC-170/blob/main/kmeans-clustering/kmeans.PNG])
